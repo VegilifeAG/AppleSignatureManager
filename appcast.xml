@@ -8,7 +8,7 @@
             <sparkle:version>1.2.4</sparkle:version>
             <sparkle:shortVersionString>1.2.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
-            <enclosure url="hhttps://github.com/VegilifeAG/AppleSignatureManager/releases/download/1.2.4/Signature.Manager.2.dmg" length="2804470" type="application/octet-stream" sparkle:edSignature="bbAALLJTtR8GIjHZHaKScg26aQZSZmRdjnFFQrePFdq6i3naTqH8bYJi4t8p13LXT/wABfqCcgeAPGIsk6+DAA=="/>
+            <enclosure url="https://github.com/VegilifeAG/AppleSignatureManager/releases/download/1.2.4/Signature.Manager.2.dmg" length="2804470" type="application/octet-stream" sparkle:edSignature="bbAALLJTtR8GIjHZHaKScg26aQZSZmRdjnFFQrePFdq6i3naTqH8bYJi4t8p13LXT/wABfqCcgeAPGIsk6+DAA=="/>
         </item>
     </channel>
 </rss>
